@@ -1,2 +1,28 @@
-# sudo-learn
-Granting myself root access to knowledge. This repository is where I explore, build, and break things to master programming concepts without limitations. The goal isn't just to learn, but to understand deeply.
+# sudo-learn 🐧
+
+### اینجا دستورِ یاد گرفتن، همیشه با sudo اجرا می‌شه!
+
+---
+
+## 🤔 اینجا چه خبره؟
+
+اینجارو درست کردم که همزمان که چیزای جدیدی یاد میگیرم اینجا قرارش بدم .
+
+---
+
+## 🛠️ پروژه‌هایی که ساختم
+
+اینجا یه لیست از کاراییه که انجام دادم یا دارم روشون کار می‌کنم. برای دیدن جزئیات بیشتر هر پروژه، می‌تونید برید توی پوشه‌ی خودش.
+
+
+* **در حال یادگیری:** جاوا اسکریپت و بعدشم قراره برم سراغ react 
+
+---
+
+## 🎯 چی تو صف یادگیریه؟
+
+چیزایی که الان تمرکزم روشونه و دوست دارم زودتر یاد بگیرم:
+
+- [ ] شاید برم سراغ go یا rust 
+- [ ]  الپیک 2 رو قطعا به زودی شروع میکنم
+
